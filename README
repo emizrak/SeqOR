@@ -1,0 +1,9 @@
+
+
+Repository for the code, analyses, and modeling of a dataset. It consists of:
+
+1) Matlab codes for a set of experiments. Uses psychtoolbox. 
+2) R code for data reading, manipulation, anlayses, and modeling. Uses RStudio and R Markdown. 
+
+This project is a part of a bigger project that aims to collect benchmark dataset for the Interference Model of Working Memory
+by Klaus Oberauer. Experiment is explained in detail within the matlab code. All scripts are programmed by Eda Mizrak. 
